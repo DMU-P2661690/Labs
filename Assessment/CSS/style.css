@@ -1,0 +1,33 @@
+body{
+ background-color: lightpink;
+}
+h1{
+ background-color: lightyellow;
+ color: #DE5D83;
+ font-family: "arial";
+}
+h2{
+ background-color: white;
+ color: lightpink;
+}
+ol{
+ list-style-type: upper-roman;
+}
+img{
+ max-width: 100%;
+}
+p{
+  font-family: "monaco", monospace;
+  font-size: 18px;
+}
+ol{
+  font-family: "monaco", monospace;
+  font-size: 18px;
+}
+ul{
+  font-family: "monaco", monospace;
+  font-size: 18px;
+}
+footer{
+  font-family:"georgia", serif;
+}
